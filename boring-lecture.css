@@ -1,0 +1,26 @@
+h2.intro {
+  color: brown;
+  background-color: tan;
+  font-weight: 500;
+  font-style: normal;
+  font-family: monospace;
+}
+
+.intro {
+  background-color: gray;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 300;
+}
+
+p.intro {
+  font-variant: small-caps;
+}
+
+img.intro {
+  height: auto;
+  width: 1000px;
+  padding: 1px;
+  border: 1px solid blue;
+  background-color: red;
+}
